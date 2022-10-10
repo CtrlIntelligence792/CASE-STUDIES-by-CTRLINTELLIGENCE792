@@ -12,4 +12,6 @@ Capitalizing on the underlying opportunity by Deloitte(https://www2.deloitte.com
 
 5.Analytics transformation in wealth management by McKinsey(https://www.mckinsey.com/industries/financial-services/our-insights/analytics-transformation-in-wealth-management)
 
+6.Sequentially estimating the dynamic contact angle of sessile saliva droplets in view of SARS-CoV-2(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261441)
+
 
