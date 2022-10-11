@@ -14,6 +14,6 @@ Capitalizing on the underlying opportunity by Deloitte(https://www2.deloitte.com
 
 6.Sequentially estimating the dynamic contact angle of sessile saliva droplets in view of SARS-CoV-2(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261441)
 
-DECODING THE BHAGAVAD GITA USING MACHINE LEARNING TECHNOLOGY(https://www.analyticsinsight.net/decoding-the-bhagavad-gita-using-machine-learning-technology/)
+7.DECODING THE BHAGAVAD GITA USING MACHINE LEARNING TECHNOLOGY(https://www.analyticsinsight.net/decoding-the-bhagavad-gita-using-machine-learning-technology/)
 
-
+8.Case Interview: Complete Prep Guide(https://managementconsulted.com/case-interview/)
