@@ -17,3 +17,7 @@ Capitalizing on the underlying opportunity by Deloitte(https://www2.deloitte.com
 7.DECODING THE BHAGAVAD GITA USING MACHINE LEARNING TECHNOLOGY(https://www.analyticsinsight.net/decoding-the-bhagavad-gita-using-machine-learning-technology/)
 
 8.Case Interview: Complete Prep Guide(https://managementconsulted.com/case-interview/)
+
+9.Construction Project Management: A Guide to Financial Reporting(https://archdesk.com/blog/construction-project-management-a-guide-to-financial-reporting/)
+
+top-15-smart-factory-kpis-manufacturing-kpi/(https://iot-analytics.com/top-15-smart-factory-kpis-manufacturing-kpi/)
