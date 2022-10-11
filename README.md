@@ -25,3 +25,5 @@ top-15-smart-factory-kpis-manufacturing-kpi/(https://iot-analytics.com/top-15-sm
 10.dfd-for-hospital-management-system-project(https://meeraacademy.com/dfd-for-hospital-management-system-project/)
 
 11.ER Diagram for Online Hotel Reservation System(https://itsourcecode.com/topics/uml/erd/)
+
+12.Employees-in-hospital-(https://yashsharmaa.notion.site/Q-Employees-in-hospital-dc9b9a37f0c744228a4ee0178fc408c8)
